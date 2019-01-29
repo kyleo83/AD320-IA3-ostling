@@ -1,0 +1,56 @@
+/* css styles */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #fff;
+}
+
+#wrapper {
+    width: 89%;
+    max-width: = 980px;
+    background: #ddd;
+    margin: 20px auto;
+}
+
+#first {
+    background: lightblue;
+    width: 98%;
+    height: 100px;
+    margin: auto;
+}
+
+#second {
+    background: lightgreen;
+    width: 98%;
+    height: 100px; 
+    margin: auto;
+}
+
+#third {
+    background: lightpink;
+    width: 98%;
+    height: 100px; 
+    margin: auto;
+}
+
+#fourth {
+    background: violet;
+    width: 98%;
+    height: 100px; 
+    margin: auto;
+}
+
+#fifth {
+    background: orange;
+    width: 98%;
+    height: 100px; 
+    margin: auto;
+}
+
+#comment {
+    height: 75px;
+    width: 20%;
+}
